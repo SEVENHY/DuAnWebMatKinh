@@ -1,6 +1,5 @@
 /* GLOBAL */
 html,body{
-
     font-family: 'Times New Roman', Times, serif;
 }
 .heading{
@@ -255,8 +254,6 @@ html,body{
 
 /* FEEDBACK */
 .feedback{
-    /* background-image: url(../img/banner3.jpg);
-    background-position: center; */
     background:url(../img/g1.png) center ;
     background-attachment: fixed;
     background-size: cover;
@@ -286,6 +283,7 @@ html,body{
     border-left: 9px solid transparent;
     border-right: 9px solid transparent;
     position: absolute;
+    position: fixed;
     top:100%;
     left: 28%;
 }
@@ -599,5 +597,7 @@ footer{
         width: 85%;
     }
 }
+
+
 
 
