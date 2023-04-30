@@ -195,7 +195,7 @@ html,body{
 
 /* OUR STATS */
 .ourStats{
-    background-image: url(../img/g1.jpg);
+    background-image: url(../img/g1.png);
     background-attachment: fixed;
     background-size: cover;
 }
@@ -257,7 +257,7 @@ html,body{
 .feedback{
     /* background-image: url(../img/banner3.jpg);
     background-position: center; */
-    background:url(../img/g1.jpg) center ;
+    background:url(../img/g1.png) center ;
     background-attachment: fixed;
     background-size: cover;
 }
